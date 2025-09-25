@@ -18,7 +18,7 @@ English, Hindi, French, German, Spanish, Chinese (Simplified), Japanese, Korean,
 
 ## 📋 Prerequisites
 
-- Python 3.8 or higher
+- Python 3.11 or higher
 - 4GB+ RAM (8GB+ recommended)
 - Internet connection (for initial model download)
 - Optional: NVIDIA GPU with CUDA support for faster performance
